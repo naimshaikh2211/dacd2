@@ -14,16 +14,6 @@
 // });
 
 
-// router.post('/movie', (request, response) => {
-//     const title = request.body.title;
-//     const year = request.body.year;
-//     const rating = request.body.rating;
-//     const shortDescription = request.body.shortDescription;
-//     const directors = request.body.directors;
-//     const writers = request.body.writers;
-//     const stars = request.body.stars;
-//     const storyline = request.body.storyline;
-//    // const thumbnail = request.file.filename;
 
 //     const statement = `insert into Movie
 //         (title, year, rating, shortDescription, directors, writers, stars, storyline) values 
